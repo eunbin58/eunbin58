@@ -1,4 +1,4 @@
-# 박은빈 | Backend Developer
+# 박은빈 | Backend/AI Developer
 
 FastAPI, AWS(EKS, DynamoDB), 이벤트 기반 아키텍처를 중심으로 백엔드 서비스를 개발하고 있습니다.
 
